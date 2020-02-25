@@ -38,8 +38,8 @@ no código é necessário fazer uma alteração
 webdriver.Firefox(executable_path='geckodriver.exe') 
 # Alterar o nome do arquivo para o nome correspondente
 ```
-
-
+### Executando
+* Após instalar todas as dependências necessárias, deve- se executar o comando `python3 main.py`
 
 
 
